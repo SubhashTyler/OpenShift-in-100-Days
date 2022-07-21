@@ -2,7 +2,7 @@
 
 Welcome to 100 Days Of OpenShift!
 
-100 Days of OpenShift is the challenge in which we aim to learn something new related to OpenShift each day across 100 Days!!!
+In this challenge we aim to learn something new related to OpenShift each day across 100 Days!!!
 
 I started this challenge as i had purchased all the RedHat OpenShift exam coupons and it is about to expire in less than 100 days, so i want to not waste those coupons and take those exams and i have no motivation to do so, that's why this challenge is to see myself through.
 
