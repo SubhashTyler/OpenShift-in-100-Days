@@ -21,3 +21,5 @@ I welcome everyone to join me on this challenge. You can ping me or give a follo
 
 <a href="https://twitter.com/SubhashTyler" target="_blank">Twitter: SubhashTyler</a>
 
+<p>Twitter:<a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">SubhashTyler</a>.</p>
+
