@@ -18,5 +18,6 @@ By this challenge, i will add notes and learnings daily as per my understanding 
 
 I welcome everyone to join me on this challenge. You can ping me or give a follow on below platform i will definitely reply.
 
-https://twitter.com/SubhashTyler
+
+<a href="https://twitter.com/SubhashTyler" target="_blank">Twitter: SubhashTyler</a>
 
