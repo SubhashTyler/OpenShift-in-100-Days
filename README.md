@@ -2,6 +2,12 @@
 
 Welcome to 100 Days Of OpenShift!
 
+
+![5c50dbbb7b1b5fc3ce732504_docker-kubernetes-openshift_49c4ae9c77daa91f4625faee6f194a94_1000](https://user-images.githubusercontent.com/33150507/180288459-a9483820-989d-44b3-9605-fca7339c553c.png)
+
+
+
+
 In this challenge we aim to learn something new related to OpenShift each day across 100 Days!!!
 
 I started this challenge as i had purchased all the RedHat OpenShift exam coupons and it is about to expire in less than 100 days, so i want to not waste those coupons and take those exams and i have no motivation to do so, that's why this challenge is to see myself through.
